@@ -5,7 +5,7 @@
 ## ✨ Превью
 
 <p align="center">
-  <img src="preview.png" alt="Превью темы" width="80%">
+  <img src="preview.png?v=1" alt="Превью темы" width="80%">
 </p>
 
 ## 🚀 Установка
@@ -36,7 +36,7 @@ A custom CSS style for [Shikimori.one](https://shikimori.one) profiles, dedicate
 ## ✨ Preview
 
 <p align="center">
-  <img src="preview.png" alt="Theme Preview" width="80%">
+  <img src="preview.png?v=1" alt="Theme Preview" width="80%">
 </p>
 
 ## 🚀 Installation
